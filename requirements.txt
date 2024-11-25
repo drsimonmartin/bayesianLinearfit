@@ -7,3 +7,4 @@ pymc==5.15.1
 scipy>=1.9.1
 seaborn==0.13.2
 xarray==2024.3.0
+watermark>=2.4.3
